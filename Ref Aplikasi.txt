@@ -1,0 +1,27 @@
+https://forms.gle/AsaragyuP8VujQ2y7
+
+untuk minggu ini tugasnya menyematkan desain mockup aplikasi yang 
+akan dibuat ke dalam readme github, mockup tidak harus langsung 
+dibuat langusng pada winform, boleh melalui aplikasi desain seperti 
+figma atau yg lain, jangan lupa linknya dipublic dan disematkan pada readme. 
+selanjutnya pelajari dan praktikkan winform connect ke database sql, 
+hanya connect tidak beserta CRUD. (P5)
+
+akan saya lihat dari yg udah dipush ke github.
+
+
+minggu depan saya tanya satu persatu ya, sbg bentuk quis. 
+pertanyaan seputar apa yg telah dikerjakan baik itu coding maupun flow/alur
+
+============================================================================
+
+### 6. Aplikasi Manajemen Film
+   - Deskripsi: Aplikasi untuk mencatat film-film yang disukai.
+   - Fitur: Tambah, lihat, edit, dan hapus film.
+
+### Tips untuk Proyek Sederhana
+- Fokus pada Fungsionalitas Dasar: Untuk proyek sederhana, fokuslah pada fungsionalitas dasar CRUD tanpa terlalu banyak fitur tambahan.
+- Antarmuka yang Sederhana: Buat antarmuka pengguna yang sederhana dan mudah dipahami.
+- Penggunaan Database yang Mudah: Anda bisa menggunakan SQLite untuk proyek yang lebih kecil, karena lebih mudah untuk diatur dibandingkan SQL Server.
+
+Proyek-proyek ini dirancang untuk memberikan pengalaman belajar yang baik tanpa menjadi terlalu rumit. Jika Anda memerlukan bantuan lebih lanjut dalam mengimplementasikan salah satu proyek ini, silakan beri tahu saya!
