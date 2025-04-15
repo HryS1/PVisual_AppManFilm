@@ -1,6 +1,6 @@
 # PVisual_AppManFilm
 
-Saya membuat Aplikasi Manajemen Film menggunakan bahasa C#, berikut contoh desain mockup :
+Saya membuat **Aplikasi Manajemen Film** menggunakan bahasa **C#**, berikut contoh desain mockup :
 Home
 ![Image](https://github.com/user-attachments/assets/bed2a8ba-7e31-4717-a09b-a8e90e129b65)
 
